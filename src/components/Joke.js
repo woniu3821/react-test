@@ -1,5 +1,5 @@
 import React from "react";
-import smileFace from "./yaoming.jpg";
+import smileFace from "../assets/img/yaoming.jpg";
 
 /* export default class Joke extends React.PureComponent {
   render() {
