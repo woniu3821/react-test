@@ -1,4 +1,5 @@
 {
+  "root": true,
   "name": "basic_stop_watch",
   "version": "0.1.0",
   "private": true,
@@ -9,6 +10,7 @@
     "react-app-rewired": "^2.1.1",
     "react-dom": "^16.8.4",
     "react-redux": "^6.0.1",
+    "react-router-dom": "^5.0.0",
     "react-scripts": "2.1.8",
     "redux": "^4.0.1",
     "styled-jsx": "^3.2.1"
@@ -27,5 +29,10 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.16.0",
+    "eslint-plugin-react": "^7.12.4"
+  }
 }
